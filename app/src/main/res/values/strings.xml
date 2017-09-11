@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="name">name</string>
+    <string name="button">返回main</string>
+    <string name="age">age</string>
+</resources>
